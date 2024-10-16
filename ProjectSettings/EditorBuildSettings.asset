@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: ffa7a22ec77ff264e9dda4bf5c9db6f7
+  - enabled: 1
+    path: Assets/Scenes/SAS/SheepAndSheep.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/GuessColor/GuessColor.unity
+    guid: 2abadd752b68f404ca5041bc3e307d86
+  - enabled: 1
+    path: Assets/Scenes/BigWatermelon/BigWatermelon.unity
+    guid: d051c19eb27b97e4a96591026a0e8894
+  - enabled: 1
+    path: Assets/Scenes/DoodleJump/DoodleJump.unity
+    guid: 453c12be41dbedb46b54b4f707b7f760
+  - enabled: 1
+    path: Assets/Scenes/Collapse/Collapse.unity
+    guid: b973775117cc300499f5ceed674534ba
+  m_configObjects: {}

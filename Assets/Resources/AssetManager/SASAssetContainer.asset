@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72cd34f3790ca014a94bd8dc74e5670e, type: 3}
+  m_Name: SASAssetContainer
+  m_EditorClassIdentifier: 
+  blockPrefab: {fileID: 2701844196822020093, guid: 31447f8bc37b69345a2994db091e7745, type: 3}
+  blockBg: {fileID: 21300000, guid: 1366322271f6e7d4884b28be6775742b, type: 3}
+  blockBgGrey: {fileID: 21300000, guid: 4192fdafbb9d6c74cb7260cf6b2cdc77, type: 3}
+  patternSprites:
+  - {fileID: 21300000, guid: e41eac1db130543ad9a5fb75ad6c42fa, type: 3}
+  - {fileID: 21300000, guid: 35ff89372c4fe4fdd8ed886f7305d38f, type: 3}
+  - {fileID: 21300000, guid: 6a76ad8b56e324c92b33141cafc52ddb, type: 3}
+  - {fileID: 21300000, guid: 10219edb01c6540109e7ea5367c6ba4e, type: 3}
+  - {fileID: 21300000, guid: 6a6dfe1730ee3447db797f7054eb0251, type: 3}
+  - {fileID: 21300000, guid: 28d95aa3574234e39902e3d8b4e46d05, type: 3}
+  - {fileID: 21300000, guid: d0c204ee051c745f3a6a360a9210a0dc, type: 3}
+  - {fileID: 21300000, guid: 44571753f17f8499793d20a6077c602d, type: 3}
+  - {fileID: 21300000, guid: 00f3be985ab3c4b6b911c645b610619a, type: 3}
+  - {fileID: 21300000, guid: 03ef4c7983d374fb2839e0cbe07e20dd, type: 3}
+  - {fileID: 21300000, guid: 69a99686ae5b74a97939c92755876095, type: 3}
+  - {fileID: 21300000, guid: 416f30e7b99e744c68b03e4d6113aa4d, type: 3}
+  - {fileID: 21300000, guid: 5ed93e7ae32254bd5b1c39e6620f1d9f, type: 3}
+  - {fileID: 21300000, guid: 5d89486659bc44841a5a250567c1efde, type: 3}
+  - {fileID: 21300000, guid: 0f39ef2dea5c34d3e9769d1b14d6912c, type: 3}
+  bgmOnSprite: {fileID: 21300000, guid: 5012ef7dee5254e8ea552abf091db671, type: 3}
+  bgmOffSprite: {fileID: 21300000, guid: 2bb6538f37e3a4eee8aae75ac01c5898, type: 3}
+  effectOnSprite: {fileID: 21300000, guid: 2605ad5563b304321a0ea6a9b948d492, type: 3}
+  effectOffSprite: {fileID: 21300000, guid: 1faff06b61d744f8892929091ee2c907, type: 3}

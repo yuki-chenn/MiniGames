@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50932fbf9d801934788ceac8d057d8b5, type: 3}
+  m_Name: BWAssetContainer
+  m_EditorClassIdentifier: 
+  fruitPrefabs:
+  - {fileID: 4412199208898803170, guid: 6b850711364e6494598b4fffb29dcb73, type: 3}
+  - {fileID: 1211825605270403887, guid: b0925ab31bd77f544aaf465edaa1e590, type: 3}
+  - {fileID: 5552247749273549772, guid: 71933b739bff3744582a5711bfd96f83, type: 3}
+  - {fileID: 3508229247310377809, guid: e9f3dff7183df05418bda76d32798912, type: 3}
+  - {fileID: 3704756638831135245, guid: 64cbbb6ed3f1d404190856e7d5f64995, type: 3}
+  - {fileID: 7733158971632699381, guid: 62965df02937e8a489c1ad93051c0836, type: 3}
+  - {fileID: 4571978481661090223, guid: 7c3e18c8be6360f4ca8de65717f15e3d, type: 3}
+  - {fileID: 5517996428032798118, guid: 7e160b48cb2067f4cbd056b5d01b973e, type: 3}
+  - {fileID: 2750703701517802216, guid: f411ae496faee0c4a8284ca58e5d88a9, type: 3}
+  - {fileID: 2884185169472617027, guid: f9d6879fcc161ca448239bbaaf738dac, type: 3}
+  - {fileID: 8453997595131494466, guid: 3cc4e55cf7853d346b7bb44854d03a9b, type: 3}

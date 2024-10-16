@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6992120017adff34cb282973d68408ee, type: 3}
+  m_Name: GCAssetContainer
+  m_EditorClassIdentifier: 
+  colorSelectItemPrefab: {fileID: 3018983288626412879, guid: 087188b5f6a1f224b91f4a8a475f8e99, type: 3}
+  ansItemPrefab: {fileID: 4663340170180175514, guid: 555bfaee88b8aa449aee7b2b7662bdcf, type: 3}
+  attemptItemPrefab: {fileID: 7023061022015928952, guid: 68e6f22749c9a594c8c80f413f87ef07, type: 3}
+  colorItemPrefab: {fileID: 3181191783949997273, guid: 3146cbefcd5ab104ba217210ed027f2a, type: 3}
+  resultItemPrefab: {fileID: 6078326324709621097, guid: 02a486be3fae4c5419772136e5376eab, type: 3}
+  attempColorItemUnselected: {fileID: 21300000, guid: 0c95fb997bf584e9dbe570f190dcef37, type: 3}
+  attempColorItemselected: {fileID: 21300000, guid: 21a720df3e95d4e9cbf40d621813f806, type: 3}
